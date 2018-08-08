@@ -1,4 +1,4 @@
-# mpvue-demo
+# 枪花图书小程序
 
 > A Mpvue project
 
